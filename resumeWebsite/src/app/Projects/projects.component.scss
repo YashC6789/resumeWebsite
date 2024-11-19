@@ -1,0 +1,27 @@
+  .resume-container {
+    text-align: center;
+    padding: 50px;
+  }
+  .showcase {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .project {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 15px;
+    width: 300px;
+    text-align: left;
+  }
+  
+  .project h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .project p {
+    color: #555;
+  }
